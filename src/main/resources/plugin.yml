@@ -1,0 +1,5 @@
+name: ISC
+version: '${project.version}'
+main: dev.dragongames.increasedsmpcore.ISC
+api-version: 1.19
+load: STARTUP
